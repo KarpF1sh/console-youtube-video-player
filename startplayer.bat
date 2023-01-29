@@ -1,1 +1,2 @@
-python bot.py
+pip install -r requirements.txt
+python player.py

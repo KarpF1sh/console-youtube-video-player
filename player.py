@@ -163,5 +163,5 @@ if args.url:
     mainFunction(args.url)
 
 else:
-    url = input("Liitä youtube url: ")
+    url = input("Paste your Youtube url here: ")
     mainFunction(url)
