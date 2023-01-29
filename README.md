@@ -5,8 +5,10 @@
 Quicly made python script that downloads and plays videos as text on your console. 
 
 ### Running
-On Windows open the run.bat file. 
-Or run the palyer.py from the command line
+On Windows open the run.bat file.  
+Or:  
+Install the dependencies: `pip install -r requirements.txt`  
+And run `python player.py` from the command line
 
 ### Arguments
 You can use these optional arguments:  
