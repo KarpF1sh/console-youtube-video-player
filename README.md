@@ -2,5 +2,10 @@
  Python program to download and display videos from Youtube on your console
  
 ## This was thrown together in one night!
-Very badly made python script to download and play videos in text format on your console.  
-This project is very unstable and may have a lot of issues realting to video formats and file permissions  
+Quicly made python script that downloads and plays videos as text on your console.  
+
+### Issues
+- Some file formats are broken
+- File permissions issues
+- Error handling not great
+- Playback can be a bit messy
