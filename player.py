@@ -32,8 +32,6 @@ if not os.path.exists(VIDEO_FILE_PATH):
     os.makedirs(VIDEO_FILE_PATH)
 
 
-##WEBHOOKURL = "https://discord.com/api/webhooks/833675063160209448/77JJTry-2Lgb3VvD9tatnBq1F9lYRIL6KVu_U5MOCR6Hi64EaLRXqLxvIAeRtXZNIphH"
-
 verbose = False
 
 def mainFunction(url):
